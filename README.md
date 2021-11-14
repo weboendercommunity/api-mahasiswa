@@ -1,4 +1,4 @@
-# API PANENKUY
+# API MAHASISWA
 this repository provide API to Mahasiswa application, the entire application is made by using laravel 8, This application is the result of conducting a security distributed system practicum
 
 ## Requirements
